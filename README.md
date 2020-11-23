@@ -1,6 +1,5 @@
-##Getting and Cleaning Data Course Project 
-##Human Activity Recognition Using Smartphones
-
+## Getting and Cleaning Data Course Project 
+## Human Activity Recognition Using Smartphones
 
 The goal is to prepare tidy data that can be used for later analysis.
 
